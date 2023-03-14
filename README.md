@@ -10,26 +10,27 @@ Feel free to clone this repository and use the code as a starting point for your
 Thank you for your interest in SAMS!
 
 
-Installation
+# Installation
+
 To install SAMS, follow these steps:
 
 Clone the repository to your local machine.
-Install the necessary dependencies using npm install.
-Run the application using npm start.
+Install the necessary dependencies using **npm install**.
+Run the application using **npm start**.
 Usage
-Once the application is running, users can access the web interface by navigating to localhost:3000 in a web browser. From there, students can submit their admission documents and track their application status, while administrators can manage applications, track progress, and generate reports.
+Once the application is running, users can access the web interface by navigating to **localhost:3000** in a web browser. From there, students can submit their admission documents and track their application status, while administrators can manage applications, track progress, and generate reports.
 
-Dependencies
+# Dependencies
 SAMS requires the following dependencies to run:
 
-Node.js
-Express.js
-MongoDB
-Mongoose
-React.js
-Redux
-Contributing
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- React.js
+- Redux
+# Contributing
 We welcome contributions from the community! If you would like to contribute to SAMS, please submit a pull request with your changes.
 
-License
+# License
 SAMS is released under the MIT License. See the LICENSE file for more information.
