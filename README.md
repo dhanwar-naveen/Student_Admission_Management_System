@@ -14,10 +14,11 @@ Thank you for your interest in SAMS!
 
 To install SAMS, follow these steps:
 
-Clone the repository to your local machine.
-Install the necessary dependencies using **npm install**.
-Run the application using **npm start**.
-Usage
+1. Clone the repository to your local machine.
+2. Install the necessary dependencies using **npm install**.
+3. Run the application using **npm start**.
+
+# Usage
 Once the application is running, users can access the web interface by navigating to **localhost:3000** in a web browser. From there, students can submit their admission documents and track their application status, while administrators can manage applications, track progress, and generate reports.
 
 # Dependencies
